@@ -12,7 +12,7 @@
     },
     "collection_version": "1.0:2.0",
     "comment": "",
-    "commit": "93389263ef2b7b84637a8086c63078c5e537875a",
+    "commit": "461163cdd74ca242297742b16b6f97ea2cb2856d",
     "conditionals": null,
     "data_reduction_software": "pychron py3/18.2",
     "detectors": {
@@ -46,13 +46,13 @@
     "experiment_type": "Ar/Ar",
     "extraction": "argus_CO2_sample.py",
     "grainsize": "",
-    "identifier": "2191",
-    "increment": 0,
+    "identifier": "2182",
+    "increment": 8,
     "instrument_name": "",
     "intensity_scalar": 0.0,
     "irradiation": "Can20",
     "irradiation_level": "B",
-    "irradiation_position": 10,
+    "irradiation_position": 1,
     "isotopes": {
         "Ar36": {
             "detector": "CDD",
@@ -97,16 +97,16 @@
     "queue_conditionals_name": "",
     "repository_identifier": "Olduvai",
     "rlocation": "",
-    "sample": "FCT-1",
+    "sample": "63-1-17.2",
     "source": {
-        "emission": 379.185,
-        "trap": 198.93
+        "emission": 379.671,
+        "trap": 198.483
     },
-    "spec_sha": "cc133be26557486f12984d0f226adb208a69733d",
-    "timestamp": "2020-09-05T10:57:53.739305",
+    "spec_sha": "28dd60c8615d38ba9122160f7b41a11079a65cdd",
+    "timestamp": "2020-09-05T08:56:17.355454",
     "tripped_conditional": null,
     "unit": "",
     "username": "root",
-    "uuid": "eaa04576-a7cc-4a7d-b513-cf22bbf4b698",
+    "uuid": "20df7cdb-b601-4494-96fc-f6dcce090a79",
     "whiff_result": null
 }

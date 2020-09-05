@@ -1,57 +1,57 @@
 {
-    "Ar36": {
-        "error": 0.0006148865721631006,
+    "AX": {
+        "error": 0.005702732103526762,
         "error_type": "SEM",
         "filter_outliers_dict": {
             "filter_outliers": true,
             "iterations": 1,
             "std_devs": 2
         },
-        "fit": "Linear",
-        "value": 0.06471074297626388
+        "fit": "Average",
+        "value": 0.017472363083355886
     },
-    "Ar37": {
-        "error": 0.010853580138253464,
+    "CDD": {
+        "error": 4.563600791020107e-06,
         "error_type": "SEM",
         "filter_outliers_dict": {
-            "filter_outliers": true,
+            "filter_outliers": false,
             "iterations": 1,
             "std_devs": 2
         },
-        "fit": "Linear",
-        "value": 0.14610726093602194
+        "fit": "Average",
+        "value": 7.093672648141492e-06
     },
-    "Ar38": {
-        "error": 0.00988627408392817,
+    "H1": {
+        "error": 0.011802254953172928,
         "error_type": "SEM",
         "filter_outliers_dict": {
             "filter_outliers": true,
             "iterations": 1,
             "std_devs": 2
         },
-        "fit": "Linear",
-        "value": 0.6191178936523771
+        "fit": "Average",
+        "value": -0.03263257303115307
     },
-    "Ar39": {
-        "error": 0.014589087692916726,
+    "L1": {
+        "error": 0.006307263816217562,
         "error_type": "SEM",
         "filter_outliers_dict": {
             "filter_outliers": true,
             "iterations": 1,
             "std_devs": 2
         },
-        "fit": "Linear",
-        "value": 50.41445836872914
+        "fit": "Average",
+        "value": 0.013201657358639053
     },
-    "Ar40": {
-        "error": 0.07148214286602303,
+    "L2": {
+        "error": 0.006908057356648155,
         "error_type": "SEM",
         "filter_outliers_dict": {
-            "filter_outliers": true,
+            "filter_outliers": false,
             "iterations": 1,
             "std_devs": 2
         },
-        "fit": "Linear",
-        "value": 976.6374628327565
+        "fit": "Average",
+        "value": -0.023197167024455147
     }
 }

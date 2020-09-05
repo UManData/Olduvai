@@ -12,7 +12,7 @@
     },
     "collection_version": "1.0:2.0",
     "comment": "",
-    "commit": "bdaa9414cd50ce35be301df06b0797945ab88e3c",
+    "commit": "941be1dc0a14c652feae4dd88d6a05785e9e9a8d",
     "conditionals": null,
     "data_reduction_software": "pychron py3/18.2",
     "detectors": {
@@ -50,7 +50,7 @@
     "increment": 0,
     "instrument_name": "",
     "intensity_scalar": 0.0,
-    "irradiation": "Can20a",
+    "irradiation": "Can20",
     "irradiation_level": "B",
     "irradiation_position": 9,
     "isotopes": {
@@ -92,21 +92,21 @@
     "measurement": "argus_sample.py",
     "post_equilibration": "argus_pump_sample_to_turbo.py",
     "post_measurement": "argus_pump_ms.py",
-    "principal_investigator": "UManLab",
+    "principal_investigator": "Durkin, P",
     "project": "Olduvai",
     "queue_conditionals_name": "",
     "repository_identifier": "Olduvai",
     "rlocation": "",
     "sample": "FCT-1",
     "source": {
-        "emission": 379.306,
-        "trap": 198.483
+        "emission": 379.063,
+        "trap": 198.93
     },
     "spec_sha": "d564f8b3b82be2e11e226fa6b3e287343e316bb8",
-    "timestamp": "2020-09-02T08:52:16.904418",
+    "timestamp": "2020-09-05T10:17:22.636136",
     "tripped_conditional": null,
     "unit": "",
     "username": "root",
-    "uuid": "ae125e7a-855d-4a16-9558-f316859e2fec",
+    "uuid": "dfde3baf-6822-43fb-a361-0a3e48c0fc3b",
     "whiff_result": null
 }
