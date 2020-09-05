@@ -1,62 +1,62 @@
 {
     "Ar36": {
-        "error": 0.00012329085676824123,
+        "error": 0.00013380165239537325,
         "error_type": "",
         "fit": "previous",
         "references": [
             {
                 "exclude": false,
-                "record_id": "ba-01-A-17148"
+                "record_id": "ba-01-A-17153"
             }
         ],
-        "value": 0.0026987421182241528
+        "value": 0.0025675595842468675
     },
     "Ar37": {
-        "error": 0.009350317713532992,
+        "error": 0.009624368409632588,
         "error_type": "",
         "fit": "previous",
         "references": [
             {
                 "exclude": false,
-                "record_id": "ba-01-A-17148"
+                "record_id": "ba-01-A-17153"
             }
         ],
-        "value": -0.00026901301650510134
+        "value": -0.0007878079616702414
     },
     "Ar38": {
-        "error": 0.011132875659668381,
+        "error": 0.011501070284632148,
         "error_type": "",
         "fit": "previous",
         "references": [
             {
                 "exclude": false,
-                "record_id": "ba-01-A-17148"
+                "record_id": "ba-01-A-17153"
             }
         ],
-        "value": 0.013264939697364682
+        "value": 0.0002141468476897137
     },
     "Ar39": {
-        "error": 0.008923276650249414,
+        "error": 0.009223364412848122,
         "error_type": "",
         "fit": "previous",
         "references": [
             {
                 "exclude": false,
-                "record_id": "ba-01-A-17148"
+                "record_id": "ba-01-A-17153"
             }
         ],
-        "value": 0.012893639194570563
+        "value": 0.003146800679580652
     },
     "Ar40": {
-        "error": 0.025133364016939115,
+        "error": 0.021257992543281087,
         "error_type": "",
         "fit": "previous",
         "references": [
             {
                 "exclude": false,
-                "record_id": "ba-01-A-17148"
+                "record_id": "ba-01-A-17153"
             }
         ],
-        "value": 0.8519296104065441
+        "value": 0.7631068355006961
     }
 }
