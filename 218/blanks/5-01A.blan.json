@@ -1,62 +1,62 @@
 {
     "Ar36": {
-        "error": 0.00015390352282268377,
+        "error": 0.00012304215918549065,
         "error_type": "",
         "fit": "previous",
         "references": [
             {
                 "exclude": false,
-                "record_id": "ba-01-A-17123"
+                "record_id": "ba-01-A-17158"
             }
         ],
-        "value": 0.00407326836172604
+        "value": 0.0031549562604809883
     },
     "Ar37": {
-        "error": 0.009095077044775985,
+        "error": 0.008552639004053918,
         "error_type": "",
         "fit": "previous",
         "references": [
             {
                 "exclude": false,
-                "record_id": "ba-01-A-17123"
+                "record_id": "ba-01-A-17158"
             }
         ],
-        "value": 0.004951013505828033
+        "value": -0.0022582353373332108
     },
     "Ar38": {
-        "error": 0.010744523276173475,
+        "error": 0.01023350902648361,
         "error_type": "",
         "fit": "previous",
         "references": [
             {
                 "exclude": false,
-                "record_id": "ba-01-A-17123"
+                "record_id": "ba-01-A-17158"
             }
         ],
-        "value": 0.02053298493439295
+        "value": 0.01685229474544256
     },
     "Ar39": {
-        "error": 0.009788787333265561,
+        "error": 0.009714588645910021,
         "error_type": "",
         "fit": "previous",
         "references": [
             {
                 "exclude": false,
-                "record_id": "ba-01-A-17123"
+                "record_id": "ba-01-A-17158"
             }
         ],
-        "value": -0.008827583514663829
+        "value": 0.009269718631113118
     },
     "Ar40": {
-        "error": 0.023903313861242538,
+        "error": 0.01976298411859371,
         "error_type": "",
         "fit": "previous",
         "references": [
             {
                 "exclude": false,
-                "record_id": "ba-01-A-17123"
+                "record_id": "ba-01-A-17158"
             }
         ],
-        "value": 1.1324459912318352
+        "value": 0.8786629234077464
     }
 }
