@@ -12,7 +12,7 @@
     },
     "collection_version": "1.0:2.0",
     "comment": "",
-    "commit": "d2b81ac86944bacb03940523aa53be2e9242dfa0",
+    "commit": "70e82fb73b2b668cb22fadecc62d9e7de01eba03",
     "conditionals": null,
     "data_reduction_software": "pychron py3/18.2",
     "detectors": {
@@ -42,7 +42,7 @@
         "lab_pneumatics": [],
         "lab_temperatures": []
     },
-    "experiment_queue_name": "IDGeneric_Sanidine",
+    "experiment_queue_name": "IDGeneric_Sanidine_2",
     "experiment_type": "Ar/Ar",
     "extraction": "argus_CO2_sample.py",
     "grainsize": "",
@@ -50,7 +50,7 @@
     "increment": 0,
     "instrument_name": "",
     "intensity_scalar": 0.0,
-    "irradiation": "Can20a",
+    "irradiation": "Can20",
     "irradiation_level": "B",
     "irradiation_position": 4,
     "isotopes": {
@@ -99,14 +99,14 @@
     "rlocation": "",
     "sample": "Alder Creek",
     "source": {
-        "emission": 378.82,
+        "emission": 379.55,
         "trap": 198.93
     },
-    "spec_sha": "cc133be26557486f12984d0f226adb208a69733d",
-    "timestamp": "2020-09-01T12:14:52.274327",
+    "spec_sha": "f7637a0efae5cc62c6be1f4d4dbf00903258e861",
+    "timestamp": "2020-09-05T17:31:32.998686",
     "tripped_conditional": null,
     "unit": "",
     "username": "root",
-    "uuid": "134e0ecc-3f8b-40e7-96cb-285bd20ff4b5",
+    "uuid": "6fe0f88a-2899-468e-a3ae-6cec6df94514",
     "whiff_result": null
 }
