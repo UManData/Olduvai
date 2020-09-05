@@ -1,7 +1,7 @@
 {
     "beam_diameter": "",
     "cleanup_duration": 60.0,
-    "commit": "39515ff516565319fe0c01912f7da0efac931240",
+    "commit": "7815553e3df658319e394c194b9f567d7ddee4b6",
     "extract_device": "ChromiumCO2",
     "extract_duration": 60.0,
     "extract_units": "percent",
@@ -14,7 +14,7 @@
     "positions": [
         {
             "is_degas": false,
-            "position": "77",
+            "position": "118",
             "x": null,
             "y": null,
             "z": null
