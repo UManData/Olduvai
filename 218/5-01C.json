@@ -12,7 +12,7 @@
     },
     "collection_version": "1.0:2.0",
     "comment": "",
-    "commit": "70e82fb73b2b668cb22fadecc62d9e7de01eba03",
+    "commit": "70c848b272b90c65dd3123fade37aba76ab96d63",
     "conditionals": null,
     "data_reduction_software": "pychron py3/18.2",
     "detectors": {
@@ -47,7 +47,7 @@
     "extraction": "argus_CO2_sample.py",
     "grainsize": "",
     "identifier": "2185",
-    "increment": 0,
+    "increment": 2,
     "instrument_name": "",
     "intensity_scalar": 0.0,
     "irradiation": "Can20",
@@ -99,14 +99,14 @@
     "rlocation": "",
     "sample": "Alder Creek",
     "source": {
-        "emission": 379.55,
+        "emission": 378.576,
         "trap": 198.93
     },
-    "spec_sha": "f7637a0efae5cc62c6be1f4d4dbf00903258e861",
-    "timestamp": "2020-09-05T17:31:32.998686",
+    "spec_sha": "cc133be26557486f12984d0f226adb208a69733d",
+    "timestamp": "2020-09-05T18:52:31.537201",
     "tripped_conditional": null,
     "unit": "",
     "username": "root",
-    "uuid": "6fe0f88a-2899-468e-a3ae-6cec6df94514",
+    "uuid": "a9bf0c69-b5ce-432e-9ea7-6cc107cdf227",
     "whiff_result": null
 }
