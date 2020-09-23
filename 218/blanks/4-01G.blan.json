@@ -1,62 +1,62 @@
 {
     "Ar36": {
-        "error": 0.00012324082507873474,
+        "error": 0.00012360476067153396,
         "error_type": "",
         "fit": "previous",
         "references": [
             {
                 "exclude": false,
-                "record_id": "ba-01-A-17142"
+                "record_id": "ba-01-A-17399"
             }
         ],
-        "value": 0.0030587724153086997
+        "value": 0.002546075188087341
     },
     "Ar37": {
-        "error": 0.010564498436752539,
+        "error": 0.009514796478022784,
         "error_type": "",
         "fit": "previous",
         "references": [
             {
                 "exclude": false,
-                "record_id": "ba-01-A-17142"
+                "record_id": "ba-01-A-17399"
             }
         ],
-        "value": 0.01752841591921852
+        "value": -0.0014861734054060598
     },
     "Ar38": {
-        "error": 0.011261217293207839,
+        "error": 0.01049300724627599,
         "error_type": "",
         "fit": "previous",
         "references": [
             {
                 "exclude": false,
-                "record_id": "ba-01-A-17142"
+                "record_id": "ba-01-A-17399"
             }
         ],
-        "value": -0.013387592987230171
+        "value": 0.00818943010289417
     },
     "Ar39": {
-        "error": 0.009439348550950384,
+        "error": 0.00850462402886327,
         "error_type": "",
         "fit": "previous",
         "references": [
             {
                 "exclude": false,
-                "record_id": "ba-01-A-17142"
+                "record_id": "ba-01-A-17399"
             }
         ],
-        "value": 0.002614670364867072
+        "value": 0.005286290027997362
     },
     "Ar40": {
-        "error": 0.024233280592223645,
+        "error": 0.02218065699547935,
         "error_type": "",
         "fit": "previous",
         "references": [
             {
                 "exclude": false,
-                "record_id": "ba-01-A-17142"
+                "record_id": "ba-01-A-17399"
             }
         ],
-        "value": 0.8184203600820307
+        "value": 0.7449958380530671
     }
 }

@@ -12,7 +12,7 @@
     },
     "collection_version": "1.0:2.0",
     "comment": "",
-    "commit": "455bb4e8256127f638a274bd89ab8cd0214f497e",
+    "commit": "f5ab7d3e52d71d837b117d10db0eb674f5d9a5d4",
     "conditionals": null,
     "data_reduction_software": "pychron py3/18.2",
     "detectors": {
@@ -50,7 +50,7 @@
     "increment": 6,
     "instrument_name": "",
     "intensity_scalar": 0.0,
-    "irradiation": "Can20a",
+    "irradiation": "Can20",
     "irradiation_level": "B",
     "irradiation_position": 3,
     "isotopes": {
@@ -99,14 +99,14 @@
     "rlocation": "",
     "sample": "63-3-Tuff2",
     "source": {
-        "emission": 378.941,
-        "trap": 198.93
+        "emission": 379.55,
+        "trap": 198.706
     },
     "spec_sha": "cc133be26557486f12984d0f226adb208a69733d",
-    "timestamp": "2020-09-02T02:11:35.278948",
+    "timestamp": "2020-09-22T20:35:30.366698",
     "tripped_conditional": null,
     "unit": "",
     "username": "root",
-    "uuid": "0686e3df-fc7e-4f13-994e-6029052ed05f",
+    "uuid": "f81fe46e-ad99-426b-b015-5d34e132d3ae",
     "whiff_result": null
 }
