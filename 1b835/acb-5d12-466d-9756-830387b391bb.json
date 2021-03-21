@@ -1,0 +1,113 @@
+{
+    "acquisition_software": "pychron 20.1",
+    "aliquot": 1,
+    "analysis_type": "unknown",
+    "analyst_name": "root",
+    "arar_mapping": {
+        "Ar36": "Ar36",
+        "Ar37": "Ar37",
+        "Ar38": "Ar38",
+        "Ar39": "Ar39",
+        "Ar40": "Ar40"
+    },
+    "collection_version": "1.0:2.1",
+    "comment": "",
+    "commit": "20441ceec3565c6f7db2b23456ecd5a21f186a02",
+    "conditionals": null,
+    "data_reduction_software": "pychron 20.1",
+    "detectors": {
+        "AX": {
+            "deflection": 150.0,
+            "gain": 1.0
+        },
+        "CDD": {
+            "deflection": 130.0,
+            "gain": 0.0
+        },
+        "H1": {
+            "deflection": 0.0,
+            "gain": 1.0
+        },
+        "L1": {
+            "deflection": 252.0,
+            "gain": 1.0
+        },
+        "L2": {
+            "deflection": 600.0,
+            "gain": 1.0
+        }
+    },
+    "environmental": {
+        "lab_humiditys": [],
+        "lab_pneumatics": [],
+        "lab_temperatures": []
+    },
+    "experiment_queue_name": "IDGeneric_Sample",
+    "experiment_type": "Ar/Ar",
+    "extraction": "argus_CO2_sample.py",
+    "grainsize": "",
+    "hops": "",
+    "identifier": "2334",
+    "increment": 8,
+    "instrument_name": "",
+    "intensity_scalar": 0.0,
+    "irradiation": "Can22",
+    "irradiation_level": "C",
+    "irradiation_position": 1,
+    "isotopes": {
+        "Ar36": {
+            "detector": "CDD",
+            "name": "Ar36",
+            "serial_id": "00000"
+        },
+        "Ar37": {
+            "detector": "L2",
+            "name": "Ar37",
+            "serial_id": "00000"
+        },
+        "Ar38": {
+            "detector": "L1",
+            "name": "Ar38",
+            "serial_id": "00000"
+        },
+        "Ar39": {
+            "detector": "AX",
+            "name": "Ar39",
+            "serial_id": "00000"
+        },
+        "Ar40": {
+            "detector": "H1",
+            "name": "Ar40",
+            "serial_id": "00000"
+        }
+    },
+    "laboratory": "",
+    "latitude": 0.0,
+    "lithology": "",
+    "lithology_class": "",
+    "lithology_group": "",
+    "lithology_type": "",
+    "longitude": 0.0,
+    "mass_spectrometer": "Argus",
+    "material": "Muscovite",
+    "measurement": "argus_sample.py",
+    "post_equilibration": "argus_pump_sample_to_turbo.py",
+    "post_measurement": "argus_pump_ms.py",
+    "principal_investigator": "Schneider, D",
+    "project": "Greece",
+    "queue_conditionals_name": "",
+    "repository_identifier": "Olduvai",
+    "rlocation": "",
+    "sample": "DSii",
+    "source": {
+        "emission": 422.127,
+        "trap": 198.147
+    },
+    "spec_sha": "c94bc476e0563a04b66fd700bd06eababef05129",
+    "timestamp": "2021-03-21T06:59:29.909252",
+    "tripped_conditional": null,
+    "unit": "",
+    "username": "root",
+    "uuid": "1b835acb-5d12-466d-9756-830387b391bb",
+    "whiff_result": null
+}
