@@ -43,6 +43,11 @@
                 "exclude": "ok",
                 "record_id": "a-01-A-6705",
                 "uuid": "bc81e507-8194-4a9f-8bb0-be4c2959cda8"
+            },
+            {
+                "exclude": "omit",
+                "record_id": "a-01-A-6706",
+                "uuid": "c4c0db6f-f34d-4f74-9f0a-f4912ea3f62b"
             }
         ],
         "reviewed": true,
